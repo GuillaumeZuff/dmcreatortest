@@ -1,0 +1,18 @@
+{
+  "name": "dmcreator-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dmcreator": "^1.0.4",
+    "get-pixels": "^3.3.0",
+    "imagemagick": "^0.1.3",
+    "promise": "^7.1.1",
+    "underscore": "^1.8.3"
+  }
+}
